@@ -8,7 +8,7 @@
      TEXTOS  (cámbialos aquí si quieres)
   ========================================================== */
   const TEXTO_1 = 'CON MUCHO CARIÑO PARA TI MI AMORCITA, TE AMOOO';
-  const TEXTO_2 = 'AUNQUE NO ESTAMOS JUNTOS HOY, TE ENVÍO ESTAS FLORES VIRTUALES';
+  const TEXTO_2 = 'AUNQUE NO ESTAMOS JUNTOS HOY, TE ENVÍO ESTAS FLORES VIRTUALES FELIZ 21/09/2026';
 
   /* ==========================================================
      FONDO: estrellas + luciérnagas
